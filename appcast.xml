@@ -13,7 +13,7 @@
                 https://your_domain/your_path/release_notes.html
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
-            <enclosure url="https://dl.dropboxusercontent.com/scl/fi/ehscsqf8l4p33qsyiisjx/Show-Recorder-Editor.zip?rlkey=2phm38d6sebcfv45nau5n0oa8&st=8q4aqag2"
+            <enclosure url=https://dl.dropboxusercontent.com/scl/fi/ehscsqf8l4p33qsyiisjx/Show-Recorder-Editor.zip?rlkey=2phm38d6sebcfv45nau5n0oa8&st=8q4aqag2
                        sparkle:edSignature="FI9kZL5J+sW67g0CRb1fddG/lKkoFCSzua/W4/8Hbr6FmljxqG4WoB3FTQqzwjsBS5winm9koul02JZV2I+fBA=="
                        sparkle:os="macos"
                        length="107936705"
