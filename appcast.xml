@@ -10,13 +10,13 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:releaseNotesLink>
-                https://raw.githubusercontent.com/vencezlatev/appcast/main/README.md
+                https://your_domain/your_path/release_notes.html
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
-            <enclosure url="https://eu-software.n-g.co/Release/ShowRecorderEditor.dmg"
-                       sparkle:edSignature="FI9kZL5J+sW67g0CRb1fddG/lKkoFCSzua/W4/8Hbr6FmljxqG4WoB3FTQqzwjsBS5winm9koul02JZV2I+fBA=="
+            <enclosure url="https://eu-software.n-g.co/Version/Show%20Recorder%20Editor_UID66a370bd99a800.67804651.zip"
+                       sparkle:edSignature="UmIqxXA1yHjTsaKA43ebRqBKTk9JBvh/LjChSsDSt5mKseCVUUfO8GSYq6SVhGMRUCkHht1eqtY8SfPFR/GmBw=="
                        sparkle:os="macos"
-                       length="107936705"
+                       length="107590282"
                        type="application/octet-stream" />
         </item>
         <item>
