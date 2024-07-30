@@ -1,8 +1,8 @@
-# Changelog
+ Changelog
 
 All notable changes to this project will be documented in this file.
 
-## [0.0.5] - 
+ [0.0.5] - 
 
 Changed
 - Force record start is now on start any change box as a additional option while waiting
@@ -52,9 +52,9 @@ Added
             - First scene
             - Last scene
 
-## [0.0.4] - 17-06-2024
+ [0.0.4] - 17-06-2024
 
-### Added
+ Added
 
 - Added a way to add all recordings to a XHL scene
 - Added reset duration button for a recording in show scene
@@ -77,7 +77,7 @@ Added
 - Added settings for scene (Loop count, Stop at end, Fade in)
 - Added zone settings (set start scene)
 
-### Fixed
+ Fixed
 
 - Artnet options fix
 - Green current time in edit screen won’t appear if the position is at the beginning or the end
@@ -88,7 +88,7 @@ Added
 - Processing only one recording conversation at a time into a xhl scene
 - Fixed wrong values at end when dragging handles or indicator in edit screen
 
-### Changed
+ Changed
 
 - Right click to rename a recording from last recordings container
 - New toast for messages
@@ -97,7 +97,7 @@ Added
 - Circle progress indicator’s line endings are rounded
 - Displaying toast information when changing records folder
 
-### Improved
+ Improved
 
 - Be able to replay only one show at a time
 - Better performance while changing between Main and Show screen
@@ -108,7 +108,7 @@ Added
 - Improved Input sources resizable container
 - Improved writing show to device
 
-## [0.0.3] - 16-04-2024
+ [0.0.3] - 16-04-2024
 
 [0.0.4]: https://github.com/Nicolaudie-UK/DMXRecorderFlutter/releases/tag/Alpha%2F0.0.4
 [0.0.3]: https://github.com/Nicolaudie-UK/DMXRecorderFlutter/releases/tag/Alpha%2F0.0.3
