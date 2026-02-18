@@ -1,0 +1,9 @@
+{
+  "macos": {
+    "version": "3.0.4",
+    "build_number": "1",
+    "download_url": "https://github.com/vencezlatev/appcast/releases/download/v3.0.4/ESA-macos-3.0.4.zip",
+    "file_size": 120879342,
+    "release_notes": "Bug fixes and improvements"
+  }
+}
